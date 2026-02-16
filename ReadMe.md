@@ -48,3 +48,18 @@ This project demonstrates:
 * Automated reporting
 * Data engineering workflows
 * Translating analytics into decision support
+
+  ## Preview
+### Decision Dashboard
+![Decision Dashboard](images/decision_dashboard.png)
+
+## How to Run
+1. Open `stock_forecast.R`
+2. Update the `path <- "..."` variable to a valid folder on your machine
+3. Run the script in RStudio
+4. The Excel workbook will be saved as `StockForecastAnalysis.xlsx`
+
+
+### 90-Day Forecast
+![90-Day Forecast](images/90_day_forecast.png)
+
